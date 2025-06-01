@@ -1,0 +1,8 @@
+transformers>=4.38.0
+torch
+langgraph>=0.0.35
+langchain
+gradio
+peft
+huggingface_hub
+bitsandbytes
