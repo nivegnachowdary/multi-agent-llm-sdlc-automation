@@ -14,7 +14,7 @@ Agents communicate via **LangChain**, simulating a real-world dev team.
 
 
 ### Tools & Frameworks
-- Python, LangChain, LangGraph  
+- Python, LangGraph  
 - AWS (S3), GitHub API  
 - LLMs: Mistral, LLaMA, Cohere Command R, Gemma 3  
 - CRISP-DM + Agile + JIRA workflow  
